@@ -14,8 +14,8 @@ _This is a simple calculator consisting of the four main operations - add, subtr
 
 ## Support and contact details
 
-_Andrew Malkin -- andymalkin@gmail.com -- github.com/tiki84626_
-_Joanna Anderson -- joanna.saerom.anderson@gmail.com -- github.com/jsaerom_
+* _Andrew Malkin -- andymalkin@gmail.com -- github.com/tiki84626_
+* _Joanna Anderson -- joanna.saerom.anderson@gmail.com -- github.com/jsaerom_
 
 ## Technologies Used
 
@@ -26,4 +26,4 @@ _Joanna Anderson -- joanna.saerom.anderson@gmail.com -- github.com/jsaerom_
 
 _This is licensed under MIT license._
 
-Copyright (c) 2016 **_tiki and jsaerom_**
+Copyright (c) 2016 **_Tiki and Jsaerom_**
