@@ -19,8 +19,8 @@ _Joanna Anderson -- joanna.saerom.anderson@gmail.com -- github.com/jsaerom_
 
 ## Technologies Used
 
-*JavaScript*
-*HTML*
+* JavaScript
+* HTML
 
 # License
 
